@@ -390,7 +390,7 @@ The MorphDistill source code, including Stage I encoder training, Stage II survi
 If you find this work useful, please cite:
 
 ```bibtex
-@article{khan2025morphdistill,
+@article{khan2026morphdistill,
   title     = {MorphDistill: Distilling Unified Morphological Knowledge from Pathology 
                Foundation Models for Colorectal Cancer Survival Prediction},
   author    = {Khan, Hikmat and Sajjad, Usama and Gurcan, Metin N. and Parwani, Anil 
