@@ -396,7 +396,7 @@ If you find this work useful, please cite:
   author    = {Khan, Hikmat and Sajjad, Usama and Gurcan, Metin N. and Parwani, Anil 
                and Frankel, Wendy L. and Chen, Wei and Niazi, Muhammad Khalid Khan},
   journal   = {arXiv preprint},
-  year      = {2025},
+  year      = {2026},
   note      = {Department of Pathology, The Ohio State University Wexner Medical Center}
 }
 ```
