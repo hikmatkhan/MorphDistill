@@ -24,6 +24,12 @@
 
 ---
 
+> ### 📢 Status
+> **The main paper describing this work is currently under review.**
+> **The full source code, training scripts, and trained model weights will be released in this repository as soon as the paper is accepted.**
+
+---
+
 ## 📌 Overview
 
 **MorphDistill** is a two-stage framework that specializes a single pathology foundation model — **UNI v2** — into a compact, CRC-specific encoder for five-year colorectal cancer survival prediction.
@@ -365,7 +371,7 @@ Adding relational distillation improves AUC in every pairing: 0.60 → 0.64 unde
 ```
 MorphDistill/
 ├── assets/                        ← Place all figure PNGs here
-│   ├── framework.png              ← Figure 1  (main framework diagram)
+│   ├── main.png                   ← Figure 1  (main framework diagram)
 │   ├── tsne.png                   ← Figure 2  (t-SNE visualization)
 │   ├── kaplan_meier_enc.png       ← Figure 3  (KM curves - encoders)
 │   ├── cindex_hr_enc.png          ← Figure 4  (C-index & HR - encoders)
