@@ -60,7 +60,7 @@ UNI v2 was selected as the teacher because it was the strongest of ten benchmark
 ### Framework Overview
 
 <p align="center">
-  <img src="assets/framework.png" alt="MorphDistill Framework" width="900"/>
+  <img src="assets/main.png" alt="MorphDistill Framework" width="900"/>
 </p>
 
 > **Figure 1:** Overview of the MorphDistill framework. **(A) Stage I** — a student encoder is trained on annotated colorectal patches under two objectives: dimension-agnostic similarity alignment, which transfers the inter-sample relational structure of the frozen UNI v2 teacher without feature projection, and supervised contrastive regularization, which grounds the representation in colorectal tissue morphology. **(B) Stage II** — the frozen MorphDistill encoder extracts patch embeddings from WSIs, which ABMIL aggregates into slide-level representations for five-year survival classification.
